@@ -19,7 +19,9 @@
 <section>
 <br>
 <p>창원시 버스정류장 검색 포털에 오신 것을 환영합니다!</p><br>
-<p>(버스 사진)</p>
+<div class = "container">
+	<img src = "bus.jpg" >
+</div>
 </section>
 
 <footer>
