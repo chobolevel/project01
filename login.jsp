@@ -14,7 +14,7 @@
 </header>
 
 <nav>
-<%@include file = "login_nav.jsp" %>
+<%@include file = "login_nav.jsp" %>        /* 로그인화면에서만 login_nav.jsp사용할 것임 */
 </nav>
 
 <section>
