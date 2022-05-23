@@ -143,7 +143,7 @@ function check() {
 		document.form.phone.focus();
 		return false;
 	}
-	from.action = "update_memberProcess.jsp";
+	form.action = "update_memberProcess.jsp";
 }
 </script>
 </body>
