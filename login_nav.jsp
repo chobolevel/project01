@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+창원시 버스정류장 검색 포털에 오신 것을 환영합니다.
 </body>
 </html>
