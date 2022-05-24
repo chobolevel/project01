@@ -38,6 +38,14 @@
 				<%
 			}
 		}
+		else {
+			%>
+			<script>
+				alert("아이디로 된 회원 정보가 존재하지 않습니다.");
+				history.back(-1);
+			</script>
+			<%
+		}
 	}
 	catch(SQLException e) {
 		e.printStackTrace();
